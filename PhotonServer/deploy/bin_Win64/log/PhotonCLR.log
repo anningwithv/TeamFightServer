@@ -7478,3 +7478,166 @@ System.AppDomainUnloadedException: ≥¢ ‘∑√Œ “—–∂‘ÿµƒ AppDomain°£
 2017-12-14 13:06:48,377 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.Setup
 2017-12-14 13:06:48,385 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
 2017-12-14 13:06:48,470 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 14:12:24,984 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'TeamFightServer' , assemblyName = 'TeamFightServer'
+2017-12-14 14:12:24,999 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:24,999 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer;bin_Win64;Shared;'
+2017-12-14 14:12:24,999 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-12-14 14:12:25,000 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\Cache'
+2017-12-14 14:12:25,205 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 14:12:25,206 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 14:12:25,206 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:25,207 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 14:12:25,223 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightServer.DLL
+2017-12-14 14:12:25,224 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 14:12:25,238 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/Photon.SocketServer.DLL
+2017-12-14 14:12:25,265 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGamesLibs.DLL
+2017-12-14 14:12:25,284 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightCommon.DLL
+2017-12-14 14:12:25,354 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'TeamFightServer', assemblyName = 'TeamFightServer', typeName = 'TeamFightServer.TeamFightApplication'
+2017-12-14 14:12:25,356 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.Setup
+2017-12-14 14:12:25,385 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
+2017-12-14 14:12:25,494 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.OnStopRequested()
+2017-12-14 14:12:25,497 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.TearDown()
+2017-12-14 14:12:30,030 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.OnStopRequested()
+2017-12-14 14:12:30,033 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.OnStopRequested()
+2017-12-14 14:12:30,036 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 14:12:30,038 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.TearDown()
+2017-12-14 14:12:30,041 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.TearDown()
+2017-12-14 14:12:35,333 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-12-14 14:12:35,348 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-12-14 14:12:35,350 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-12-14 14:12:35,714 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: yes; max connections: 100; valid IPs: any
+2017-12-14 14:12:36,982 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'TeamFightServer' , assemblyName = 'TeamFightServer'
+2017-12-14 14:12:36,983 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:36,983 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer;bin_Win64;Shared;'
+2017-12-14 14:12:36,983 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-12-14 14:12:36,984 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\Cache'
+2017-12-14 14:12:37,075 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 14:12:37,076 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 14:12:37,076 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:37,077 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 14:12:37,087 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightServer.DLL
+2017-12-14 14:12:37,088 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 14:12:37,098 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/Photon.SocketServer.DLL
+2017-12-14 14:12:37,118 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGamesLibs.DLL
+2017-12-14 14:12:37,130 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightCommon.DLL
+2017-12-14 14:12:37,136 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'TeamFightServer', assemblyName = 'TeamFightServer', typeName = 'TeamFightServer.TeamFightApplication'
+2017-12-14 14:12:37,137 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2017-12-14 14:12:37,137 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:37,138 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2017-12-14 14:12:37,138 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2017-12-14 14:12:37,139 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\Cache'
+2017-12-14 14:12:37,207 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher'
+2017-12-14 14:12:37,207 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin'
+2017-12-14 14:12:37,208 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 14:12:37,208 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 14:12:37,231 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2017-12-14 14:12:37,232 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 14:12:37,242 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2017-12-14 14:12:37,252 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2017-12-14 14:12:37,258 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2017-12-14 14:12:37,273 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2017-12-14 14:12:37,295 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2017-12-14 14:12:39,332 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.Setup
+2017-12-14 14:12:39,354 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
+2017-12-14 14:12:39,460 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 15:20:41,855 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 15:20:45,489 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-12-14 15:20:45,506 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-12-14 15:20:45,508 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-12-14 15:20:45,865 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: yes; max connections: 100; valid IPs: any
+2017-12-14 15:20:47,086 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'TeamFightServer' , assemblyName = 'TeamFightServer'
+2017-12-14 15:20:47,087 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:20:47,087 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer;bin_Win64;Shared;'
+2017-12-14 15:20:47,087 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-12-14 15:20:47,088 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\Cache'
+2017-12-14 15:20:47,149 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:20:47,150 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:20:47,151 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:20:47,152 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 15:20:47,164 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightServer.DLL
+2017-12-14 15:20:47,165 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 15:20:47,176 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/Photon.SocketServer.DLL
+2017-12-14 15:20:47,187 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGamesLibs.DLL
+2017-12-14 15:20:47,199 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightCommon.DLL
+2017-12-14 15:20:47,207 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'TeamFightServer', assemblyName = 'TeamFightServer', typeName = 'TeamFightServer.TeamFightApplication'
+2017-12-14 15:20:47,208 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2017-12-14 15:20:47,208 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:20:47,208 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2017-12-14 15:20:47,209 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2017-12-14 15:20:47,209 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\Cache'
+2017-12-14 15:20:47,264 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher'
+2017-12-14 15:20:47,265 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin'
+2017-12-14 15:20:47,266 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:20:47,266 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 15:20:47,278 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2017-12-14 15:20:47,278 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 15:20:47,289 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2017-12-14 15:20:47,298 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2017-12-14 15:20:47,304 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2017-12-14 15:20:47,319 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2017-12-14 15:20:47,329 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2017-12-14 15:20:49,029 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.Setup
+2017-12-14 15:20:49,039 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
+2017-12-14 15:20:49,143 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 15:26:49,772 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'TeamFightServer' , assemblyName = 'TeamFightServer'
+2017-12-14 15:26:49,772 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:26:49,773 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer;bin_Win64;Shared;'
+2017-12-14 15:26:49,773 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-12-14 15:26:49,773 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\Cache'
+2017-12-14 15:26:49,823 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:26:49,823 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:26:49,824 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:26:49,824 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 15:26:49,835 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightServer.DLL
+2017-12-14 15:26:49,835 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 15:26:49,845 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/Photon.SocketServer.DLL
+2017-12-14 15:26:49,854 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGamesLibs.DLL
+2017-12-14 15:26:49,867 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightCommon.DLL
+2017-12-14 15:26:49,871 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'TeamFightServer', assemblyName = 'TeamFightServer', typeName = 'TeamFightServer.TeamFightApplication'
+2017-12-14 15:26:49,873 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.Setup
+2017-12-14 15:26:49,881 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
+2017-12-14 15:26:49,973 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.OnStopRequested()
+2017-12-14 15:26:49,975 [ 8] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.TearDown()
+2017-12-14 15:26:54,271 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.OnStopRequested()
+2017-12-14 15:26:54,274 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.OnStopRequested()
+2017-12-14 15:26:54,277 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-12-14 15:26:54,279 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.TearDown()
+2017-12-14 15:26:54,282 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'TeamFightServer', DomainId='4' -- calling Application.TearDown()
+2017-12-14 15:27:00,000 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-12-14 15:27:00,017 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-12-14 15:27:00,020 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-12-14 15:27:00,353 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: yes; max connections: 100; valid IPs: any
+2017-12-14 15:27:01,573 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'TeamFightServer' , assemblyName = 'TeamFightServer'
+2017-12-14 15:27:01,574 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:27:01,574 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer;bin_Win64;Shared;'
+2017-12-14 15:27:01,574 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-12-14 15:27:01,575 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\Cache'
+2017-12-14 15:27:01,632 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:27:01,632 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer'
+2017-12-14 15:27:01,633 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:27:01,634 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 15:27:01,646 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightServer.DLL
+2017-12-14 15:27:01,646 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 15:27:01,658 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/Photon.SocketServer.DLL
+2017-12-14 15:27:01,667 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGamesLibs.DLL
+2017-12-14 15:27:01,681 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: TeamFightCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/TeamFightCommon.DLL
+2017-12-14 15:27:01,688 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'TeamFightServer', assemblyName = 'TeamFightServer', typeName = 'TeamFightServer.TeamFightApplication'
+2017-12-14 15:27:01,689 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2017-12-14 15:27:01,690 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:27:01,690 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2017-12-14 15:27:01,690 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2017-12-14 15:27:01,690 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin\Cache'
+2017-12-14 15:27:01,745 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher'
+2017-12-14 15:27:01,745 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher\bin'
+2017-12-14 15:27:01,746 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy'
+2017-12-14 15:27:01,746 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\log'
+2017-12-14 15:27:01,757 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=null from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2017-12-14 15:27:01,758 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.28.8340
+2017-12-14 15:27:01,766 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.28.8340, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2017-12-14 15:27:01,775 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2017-12-14 15:27:01,780 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2017-12-14 15:27:01,793 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2017-12-14 15:27:01,801 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2017-12-14 15:27:03,548 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'TeamFightServer', DomainId='2' -- calling Application.Setup
+2017-12-14 15:27:03,560 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/UnityProjects/TeamFightServer/PhotonServer/deploy/TeamFightServer/ExitGames.Logging.Log4Net.DLL
+2017-12-14 15:27:03,665 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'

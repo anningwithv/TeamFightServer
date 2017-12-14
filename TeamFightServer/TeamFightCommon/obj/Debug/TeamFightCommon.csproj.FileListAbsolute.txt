@@ -1,0 +1,6 @@
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\obj\Debug\TeamFightCommon.csprojResolveAssemblyReference.cache
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\bin\Debug\TeamFightCommon.dll
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\bin\Debug\TeamFightCommon.pdb
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\obj\Debug\TeamFightCommon.dll
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\obj\Debug\TeamFightCommon.pdb
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightCommon\bin\Debug\LitJson.dll

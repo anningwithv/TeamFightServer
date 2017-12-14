@@ -10,6 +10,8 @@ using log4net;
 using log4net.Config;
 using System.IO;
 using ExitGames.Logging;
+using TeamFightServer.Handlers;
+using System.Reflection;
 
 namespace TeamFightServer
 {
@@ -19,9 +21,18 @@ namespace TeamFightServer
 
         private static TeamFightApplication _instance;
 
+        public Dictionary<byte, HandlerBase> m_handlers = new Dictionary<byte, HandlerBase>();
+
         public static TeamFightApplication Instance
         {
             get { return _instance; }
+        }
+
+        public TeamFightApplication()
+        {
+            _instance = this;
+
+            RegisteHandlers();
         }
 
         protected override PeerBase CreatePeer(InitRequest initRequest)
@@ -42,6 +53,18 @@ namespace TeamFightServer
         protected override void TearDown()
         {
             log.Debug("TeamFight server application tear down.");
+        }
+
+        private void RegisteHandlers()
+        {
+            Type[] types = Assembly.GetAssembly(typeof(HandlerBase)).GetTypes();
+            foreach (var type in types)
+            {
+                if (type.FullName.EndsWith("Handler"))
+                {
+                    Activator.CreateInstance(type);
+                }
+            }
         }
     }
 }

@@ -432,3 +432,18 @@
 2017-12-14 13:06:48,358 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
 2017-12-14 13:06:48,375 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
 2017-12-14 13:06:48,376 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 14:12:30,031 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2017-12-14 14:12:30,039 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2017-12-14 14:12:39,309 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 14:12:39,327 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2017-12-14 14:12:39,330 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 15:20:41,850 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2017-12-14 15:20:41,858 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2017-12-14 15:20:49,010 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 15:20:49,026 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2017-12-14 15:20:49,027 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 15:26:54,272 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2017-12-14 15:26:54,280 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2017-12-14 15:27:03,525 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 15:27:03,544 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2017-12-14 15:27:03,546 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001

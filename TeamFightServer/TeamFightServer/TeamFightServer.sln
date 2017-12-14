@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamFightServer", "TeamFightServer.csproj", "{7085EC17-C28F-49AA-B0F4-E82E491365D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamFightCommon", "..\TeamFightCommon\TeamFightCommon.csproj", "{F4BD1976-0158-44E7-9915-ED3AEB203725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7085EC17-C28F-49AA-B0F4-E82E491365D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7085EC17-C28F-49AA-B0F4-E82E491365D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7085EC17-C28F-49AA-B0F4-E82E491365D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BD1976-0158-44E7-9915-ED3AEB203725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BD1976-0158-44E7-9915-ED3AEB203725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BD1976-0158-44E7-9915-ED3AEB203725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BD1976-0158-44E7-9915-ED3AEB203725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

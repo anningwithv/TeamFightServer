@@ -4,3 +4,21 @@
 30612: 13:06:40.700 - Will produce at most: 10 crash dumps
 30612: 13:06:40.700 - Service shutting down
 30612: 13:06:40.701 - Service shut down complete
+3932: 14:12:30.036 - ---
+3932: 14:12:30.036 - Service: "Photon Socket Server" starting
+3932: 14:12:30.036 - Config File: E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\PhotonServer.config
+3932: 14:12:30.038 - Will produce at most: 10 crash dumps
+3932: 14:12:30.038 - Service shutting down
+3932: 14:12:30.039 - Service shut down complete
+48540: 15:20:41.691 - ---
+48540: 15:20:41.691 - Service: "Photon Socket Server" starting
+48540: 15:20:41.691 - Config File: E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\PhotonServer.config
+48540: 15:20:41.692 - Will produce at most: 10 crash dumps
+48540: 15:20:41.692 - Service shutting down
+48540: 15:20:41.693 - Service shut down complete
+16208: 15:26:54.276 - ---
+16208: 15:26:54.276 - Service: "Photon Socket Server" starting
+16208: 15:26:54.277 - Config File: E:\UnityProjects\TeamFightServer\PhotonServer\deploy\bin_Win64\PhotonServer.config
+16208: 15:26:54.279 - Will produce at most: 10 crash dumps
+16208: 15:26:54.279 - Service shutting down
+16208: 15:26:54.280 - Service shut down complete

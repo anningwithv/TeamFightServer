@@ -9,3 +9,39 @@
 2017-12-14 13:06:48,447 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
 2017-12-14 13:06:48,461 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
 2017-12-14 13:25:41,597 [11] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 14:12:25,471 [8] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
+2017-12-14 14:12:25,486 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
+2017-12-14 14:12:25,496 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=TeamFightServer
+2017-12-14 14:12:25,498 [8] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application tear down.
+2017-12-14 14:12:25,499 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=TeamFightServer
+2017-12-14 14:12:30,034 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=TeamFightServer
+2017-12-14 14:12:30,042 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application tear down.
+2017-12-14 14:12:30,043 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=TeamFightServer
+2017-12-14 14:12:39,435 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
+2017-12-14 14:12:39,449 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
+2017-12-14 15:12:03,527 [6] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:13:23,921 [6] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:15:36,626 [11] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:19:52,165 [11] DEBUG TeamFightServer.ClientPeer [(null)] - Server get client operation request.
+2017-12-14 15:20:07,974 [6] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:20:41,854 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=TeamFightServer
+2017-12-14 15:20:41,861 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application tear down.
+2017-12-14 15:20:41,862 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=TeamFightServer
+2017-12-14 15:20:49,118 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
+2017-12-14 15:20:49,133 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
+2017-12-14 15:21:47,055 [14] DEBUG TeamFightServer.ClientPeer [(null)] - Server get client operation request.
+2017-12-14 15:22:00,104 [4] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:26:49,950 [8] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
+2017-12-14 15:26:49,964 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
+2017-12-14 15:26:49,974 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=TeamFightServer
+2017-12-14 15:26:49,976 [8] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application tear down.
+2017-12-14 15:26:49,977 [8] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=TeamFightServer
+2017-12-14 15:26:54,276 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=TeamFightServer
+2017-12-14 15:26:54,284 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application tear down.
+2017-12-14 15:26:54,285 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=TeamFightServer
+2017-12-14 15:27:03,641 [1] DEBUG TeamFightServer.TeamFightApplication [(null)] - TeamFight server application setup complete.
+2017-12-14 15:27:03,656 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=TeamFightServer; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer, Type=TeamFightServer.TeamFightApplication 
+2017-12-14 15:27:15,798 [10] DEBUG TeamFightServer.ClientPeer [(null)] - Server get client operation request.
+2017-12-14 15:27:36,484 [10] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
+2017-12-14 15:30:50,011 [11] DEBUG TeamFightServer.ClientPeer [(null)] - Server get client operation request.
+2017-12-14 15:31:02,970 [12] DEBUG TeamFightServer.ClientPeer [(null)] - A client is disconnect.
