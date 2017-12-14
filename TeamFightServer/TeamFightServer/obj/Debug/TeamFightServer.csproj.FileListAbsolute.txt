@@ -1,0 +1,6 @@
+E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\TeamFightServer.dll
+E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\TeamFightServer.pdb
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightServer\obj\Debug\TeamFightServer.csprojResolveAssemblyReference.cache
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightServer\obj\Debug\TeamFightServer.dll
+E:\UnityProjects\TeamFightServer\TeamFightServer\TeamFightServer\obj\Debug\TeamFightServer.pdb
+E:\UnityProjects\TeamFightServer\PhotonServer\deploy\TeamFightServer\log4net.config
