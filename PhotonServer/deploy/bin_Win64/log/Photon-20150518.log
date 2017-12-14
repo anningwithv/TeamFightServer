@@ -1,0 +1,18 @@
+892: 14:57:55.738 - ---
+892: 14:57:55.738 - Service: "Photon Socket Server" starting
+892: 14:57:55.738 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+892: 14:57:55.741 - Will produce at most: 10 crash dumps
+892: 14:57:55.741 - Service shutting down
+892: 14:57:55.744 - Service shut down complete
+6464: 14:59:15.533 - ---
+6464: 14:59:15.533 - Service: "Photon Socket Server" starting
+6464: 14:59:15.533 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+6464: 14:59:15.535 - Will produce at most: 10 crash dumps
+6464: 14:59:15.535 - Service shutting down
+6464: 14:59:15.537 - Service shut down complete
+8164: 17:59:18.799 - ---
+8164: 17:59:18.799 - Service: "Photon Socket Server" starting
+8164: 17:59:18.799 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+8164: 17:59:18.801 - Will produce at most: 10 crash dumps
+8164: 17:59:18.801 - Service shutting down
+8164: 17:59:18.805 - Service shut down complete

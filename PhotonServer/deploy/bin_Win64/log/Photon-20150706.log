@@ -1,0 +1,12 @@
+29100: 09:21:25.273 - ---
+29100: 09:21:25.273 - Service: "Photon Socket Server" starting
+29100: 09:21:25.273 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+29100: 09:21:25.273 - Will produce at most: 10 crash dumps
+29100: 09:21:25.273 - Service shutting down
+29100: 09:21:25.273 - Service shut down complete
+32268: 17:42:15.597 - ---
+32268: 17:42:15.597 - Service: "Photon Socket Server" starting
+32268: 17:42:15.597 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+32268: 17:42:15.598 - Will produce at most: 10 crash dumps
+32268: 17:42:15.598 - Service shutting down
+32268: 17:42:15.599 - Service shut down complete

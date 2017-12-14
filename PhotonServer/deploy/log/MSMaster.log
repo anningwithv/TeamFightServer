@@ -1,0 +1,29 @@
+2015-07-09 15:05:11,261 [1] WARN  Photon.LoadBalancing.LoadBalancer.LoadBalancer`1 [(null)] - Could not initialize LoadBalancer from configuration: Invalid configuration file E:\TaidouPhotonServer\deploy\LoadBalancer.config. Using default settings... (未能找到文件“E:\TaidouPhotonServer\deploy\LoadBalancer.config”。)
+2015-07-09 15:05:11,292 [1] DEBUG Photon.LoadBalancing.MasterServer.GameApplication [(null)] - Creating application: appId={Default}
+2015-07-09 15:05:11,308 [1] DEBUG Photon.LoadBalancing.MasterServer.Lobby.AppLobby [(null)] - Creating lobby: name=, type=Default
+2015-07-09 15:05:11,308 [1] DEBUG Photon.LoadBalancing.MasterServer.Lobby.GameList [(null)] - Creating new GameList
+2015-07-09 15:05:11,323 [1] INFO  Photon.LoadBalancing.Common.NodesReader [(null)] - Import nodes
+2015-07-09 15:05:11,323 [1] WARN  Photon.LoadBalancing.Common.NodesReader [(null)] - E:\TaidouPhotonServer\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2015-07-09 15:05:11,339 [1] INFO  Photon.LoadBalancing.Common.NodesReader [(null)] - Watching E:\TaidouPhotonServer\deploy\Nodes.txt
+2015-07-09 15:05:11,339 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication [(null)] - Current Node (nodeId=0) is the active master (leader)
+2015-07-09 15:05:11,339 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Master; AppPath=E:\TaidouPhotonServer\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2015-07-09 15:05:11,370 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:05:11,402 [12] DEBUG Photon.LoadBalancing.MasterServer.MasterApplication [(null)] - Received init request from game server
+2015-07-09 15:05:11,402 [10] DEBUG Photon.LoadBalancing.MasterServer.MasterApplication [(null)] - Received init request from game server
+2015-07-09 15:05:11,402 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - game server connection from 127.0.0.1:4745 established (id=2)
+2015-07-09 15:05:11,402 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - game server connection from 127.0.0.1:4746 established (id=3)
+2015-07-09 15:05:11,495 [12] DEBUG Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - OnOperationRequest: pid=3, op=1
+2015-07-09 15:05:11,495 [17] DEBUG Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - OnOperationRequest: pid=2, op=1
+2015-07-09 15:05:11,542 [17] WARN  Photon.LoadBalancing.Common.NodesReader [(null)] - Internal address for node 0 unknown; using loop back
+2015-07-09 15:05:11,542 [17] INFO  Photon.LoadBalancing.Common.NodesReader [(null)] - Node added: 0 = 127.0.0.1
+2015-07-09 15:05:11,542 [17] DEBUG Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - Received register request: Address=127.0.0.1, UdpPort=5056, TcpPort=4531, WebSocketPort=9091, State=Normal
+2015-07-09 15:05:11,542 [12] DEBUG Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - Received register request: Address=127.0.0.1, UdpPort=5057, TcpPort=4532, WebSocketPort=9092, State=Normal
+2015-07-09 15:05:11,558 [17] DEBUG Photon.LoadBalancing.LoadBalancer.LoadBalancer`1 [(null)] - Added server: workload=Lowest
+2015-07-09 15:05:11,558 [12] DEBUG Photon.LoadBalancing.LoadBalancer.LoadBalancer`1 [(null)] - Added server: workload=Lowest
+2015-07-09 15:05:57,394 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - OnDisconnect: game server connection closed (connectionId=2, serverId=0aa6f6f6-386b-4814-ac90-c04a75fb8834, reason=ClientDisconnect)
+2015-07-09 15:05:57,394 [12] DEBUG Photon.LoadBalancing.LoadBalancer.LoadBalancer`1 [(null)] - Removed server: workload=Lowest
+2015-07-09 15:05:57,409 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer [(null)] - OnDisconnect: game server connection closed (connectionId=3, serverId=16a8c4f9-1e98-45b6-9851-9da3197cc0e2, reason=ClientDisconnect)
+2015-07-09 15:05:57,409 [11] DEBUG Photon.LoadBalancing.LoadBalancer.LoadBalancer`1 [(null)] - Removed server: workload=Lowest
+2015-07-09 15:05:57,409 [1] DEBUG Photon.LoadBalancing.MasterServer.MasterApplication [(null)] - OnStopRequested... going to disconnect 0 GS peers
+2015-07-09 15:05:57,409 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=Master
+2015-07-09 15:05:57,456 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=Master

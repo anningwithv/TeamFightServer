@@ -1,0 +1,272 @@
+5648: 15:05:00.587 - ---
+5648: 15:05:00.587 - Service: "Photon Socket Server" starting
+5648: 15:05:00.587 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5648: 15:05:00.587 - Will produce at most: 10 crash dumps
+5648: 15:05:00.603 - Action: run as exe
+5648: 15:05:00.603 - Server Starting...
+5648: 15:05:00.603 -    Tick count: 7418468 (wraps in: 49.6244 days)
+5648: 15:05:00.603 - Tick count 64: 7418468
+5648: 15:05:00.603 - Photon Version: 3.4.5.2597
+5648: 15:05:00.603 - PID: 8460
+5648: 15:05:00.603 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5648: 15:05:00.603 - Will NOT log unimportant exceptions
+5648: 15:05:00.603 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+5648: 15:05:00.603 - Shutdown timeout enabled: 30000ms
+5648: 15:05:00.603 - Starting I/O thread pool with 2 threads
+5648: 15:05:00.603 - Using Standard allocator
+5648: 15:05:00.603 - Max message size: 512000
+5648: 15:05:00.603 - Starting business logic thread pool with the following settings
+5648: 15:05:00.603 - InitialThreads: 4 threads
+5648: 15:05:00.603 - MinThreads: 4 threads
+5648: 15:05:00.603 - Thread pool is fixed size
+5648: 15:05:00.603 - Starting ENet thread pool with the following settings
+5648: 15:05:00.603 - InitialThreads: 2 threads
+5648: 15:05:00.603 - MinThreads: 2 threads
+5648: 15:05:00.603 - Thread pool is fixed size
+5648: 15:05:00.603 - OnlyDispatchTimers: False
+5648: 15:05:00.603 - S2S: flow control: Max pending writes: 50
+5648: 15:05:00.603 - S2S: flow control: Max queued buffers: 200
+5648: 15:05:00.603 - S2S: flow control: Max pending writes MUX: 500
+5648: 15:05:00.603 - S2S: flow control: Max queued buffers MUX: 2000
+5648: 15:05:00.603 - S2S: MaxInboundMessageSize: 512000
+5648: 15:05:00.603 - S2S: MaxOutboundMessageSize: 512000
+5648: 15:05:00.603 - S2S: No inactivity timeout
+5648: 15:05:00.603 - WebSocket S2S: MaxInboundMessageSize: 512000
+5648: 15:05:00.603 - WebSocket S2S: MaxOutboundMessageSize: 512000
+5648: 15:05:00.603 - WebSocket S2S: No inactivity timeout
+5648: 15:05:00.603 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+5648: 15:05:00.603 - Per peer bandwidth limit
+5648: 15:05:00.603 - Transmit Rate Limit: 256 KB/Sec
+5648: 15:05:00.603 - Limit period: 200ms
+5648: 15:05:00.603 - Limit per period: 52428 bytes
+5648: 15:05:00.603 - Max queued data for transmission per peer: 512000 bytes
+5648: 15:05:00.603 - Minimum retransmit timeout: 200
+5648: 15:05:00.603 - Minimum ENet timeout: 5000ms
+5648: 15:05:00.603 - Maximum ENet timeout: 30000ms
+5648: 15:05:00.603 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+5648: 15:05:00.603 - Outbound ENet: MaxInboundMessageSize: 512000
+5648: 15:05:00.603 - Outbound ENet: MaxOutboundMessageSize: 512000
+5648: 15:05:00.603 - GetRuntime - About to load CLR - versions available:
+5648: 15:05:00.603 - v2.0.50727
+5648: 15:05:00.603 - v4.0.30319
+5648: 15:05:00.603 - Configuration requests: "v2.0.50727"
+5648: 15:05:00.603 - About to load version: "v2.0.50727"
+5648: 15:05:00.603 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+5648: 15:05:00.603 - CLRBaseDirectory set to "E:\TaidouPhotonServer\deploy"
+5648: 15:05:00.603 - Optimising event broadcast for 20 or more peers
+5648: 15:05:00.603 - Start: About to load CLR - versions available:
+5648: 15:05:00.603 - v2.0.50727
+5648: 15:05:00.603 - v4.0.30319
+5648: 15:05:00.603 - No preference in configuration file, will load latest.
+5648: 15:05:00.603 - About to load version: "v4.0.30319"
+5648: 15:05:00.603 - Loaded version: "v4.0.30319"
+5648: 15:05:00.837 - Photon host runtime loaded
+5648: 15:05:06.572 - License is valid.
+5648: 15:05:06.572 - Licensed for 100 concurrent connections.
+5648: 15:05:06.572 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+5648: 15:05:06.572 - ENet: Per peer bandwidth limit
+5648: 15:05:06.572 - ENet: Transmit Rate Limit: 256 KB/Sec
+5648: 15:05:06.572 - ENet: Limit period: 200ms
+5648: 15:05:06.572 - ENet: Limit per period: 52428 bytes
+5648: 15:05:06.572 - ENet: Max queued data for transmission per peer: 512000 bytes
+5648: 15:05:06.572 - ENet: Minimum retransmit timeout: 200
+5648: 15:05:06.572 - ENet: Minimum timeout: 5000ms
+5648: 15:05:06.572 - ENet: Maximum timeout: 30000ms
+5648: 15:05:06.572 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+5648: 15:05:06.572 - About to load application: Master from Photon.LoadBalancing
+5648: 15:05:06.572 - Auto restart is enabled for application, existing connections will be terminated during restart
+5648: 15:05:06.572 - Application will restart 1000ms after the last change detected
+5648: 15:05:06.572 - Application will restart if files matching the following are changed: "dll;config"
+5648: 15:05:06.572 - Application will NOT restart if files matching the following are changed: "log4net.config"
+5648: 15:05:06.853 - Taking reference on default app domain
+5648: 15:05:07.056 - Application: "Master" started in app domain: 2
+5648: 15:05:07.056 - About to load application: Game1 from Photon.LoadBalancing
+5648: 15:05:07.056 - Auto restart is enabled for application, existing connections will be terminated during restart
+5648: 15:05:07.056 - Application will restart 1000ms after the last change detected
+5648: 15:05:07.056 - Application will restart if files matching the following are changed: "dll;config"
+5648: 15:05:07.056 - Application will NOT restart if files matching the following are changed: "log4net.config"
+5648: 15:05:07.259 - Taking reference on default app domain
+5648: 15:05:07.447 - Application: "Game1" started in app domain: 3
+5648: 15:05:07.447 - About to load application: Game2 from Photon.LoadBalancing
+5648: 15:05:07.447 - Auto restart is enabled for application, existing connections will be terminated during restart
+5648: 15:05:07.447 - Application will restart 1000ms after the last change detected
+5648: 15:05:07.447 - Application will restart if files matching the following are changed: "dll;config"
+5648: 15:05:07.447 - Application will NOT restart if files matching the following are changed: "log4net.config"
+5648: 15:05:07.712 - Taking reference on default app domain
+5648: 15:05:07.884 - Application: "Game2" started in app domain: 4
+5648: 15:05:07.884 - About to load application: CounterPublisher from CounterPublisher
+5648: 15:05:07.884 - Auto restart is enabled for application, existing connections will be terminated during restart
+5648: 15:05:07.884 - Application will restart 1000ms after the last change detected
+5648: 15:05:07.884 - Application will restart if files matching the following are changed: "dll;config"
+5648: 15:05:07.884 - Application will NOT restart if files matching the following are changed: "log4net.config"
+5648: 15:05:08.025 - Taking reference on default app domain
+5648: 15:05:08.134 - Application: "CounterPublisher" started in app domain: 5
+5648: 15:05:08.134 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+5648: 15:05:08.134 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.134 - TCP disconnect timeout: 120000ms
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - Forcing all applications ids to: "Master"
+5648: 15:05:08.134 - Serving policy file requests from: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+5648: 15:05:08.134 - Adding TCP listener on :0.0.0.0: 4531 with a listen backlog of: 150
+5648: 15:05:08.134 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.134 - TCP disconnect timeout: 120000ms
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - Forcing all applications ids to: "Game1"
+5648: 15:05:08.134 - Serving policy file requests from: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+5648: 15:05:08.134 - Adding TCP listener on :0.0.0.0: 4532 with a listen backlog of: 150
+5648: 15:05:08.134 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.134 - TCP disconnect timeout: 120000ms
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - Forcing all applications ids to: "Game2"
+5648: 15:05:08.134 - Serving policy file requests from: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+5648: 15:05:08.134 - Adding TCP listener on :0.0.0.0: 4520 with a listen backlog of: 150
+5648: 15:05:08.134 - TCP inactivity timeout: 5000ms
+5648: 15:05:08.134 - TCP disconnect timeout: 120000ms
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - Forcing all applications ids to: "Master"
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+5648: 15:05:08.134 - Adding UDP listener on :192.168.1.116: 5055 with a listen backlog of: 500
+5648: 15:05:08.134 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+5648: 15:05:08.134 - Forcing all applications ids to: "Game1"
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+5648: 15:05:08.134 - Adding UDP listener on :192.168.1.116: 5056 with a listen backlog of: 500
+5648: 15:05:08.134 - Adding UDP listener on :127.0.0.1: 5056 with a listen backlog of: 500
+5648: 15:05:08.134 - Forcing all applications ids to: "Game2"
+5648: 15:05:08.134 - MaxInboundMessageSize: 512000
+5648: 15:05:08.134 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.134 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+5648: 15:05:08.134 - Adding UDP listener on :192.168.1.116: 5057 with a listen backlog of: 500
+5648: 15:05:08.134 - Adding UDP listener on :127.0.0.1: 5057 with a listen backlog of: 500
+5648: 15:05:08.134 - Adding WebSocket TCP listener on :0.0.0.0: 9090 with a listen backlog of: 150
+5648: 15:05:08.150 - Nagle disabled
+5648: 15:05:08.150 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.150 - MaxInboundMessageSize: 512000
+5648: 15:05:08.150 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.150 - Forcing all applications ids to: "Master"
+5648: 15:05:08.150 - Will accept ANY sub-protocols from the client
+5648: 15:05:08.150 - No automatic WebSocket ping
+5648: 15:05:08.165 - Adding WebSocket TCP listener on :0.0.0.0: 9091 with a listen backlog of: 150
+5648: 15:05:08.165 - Nagle disabled
+5648: 15:05:08.165 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.165 - MaxInboundMessageSize: 512000
+5648: 15:05:08.165 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.165 - Forcing all applications ids to: "Game1"
+5648: 15:05:08.165 - Will accept ANY sub-protocols from the client
+5648: 15:05:08.165 - No automatic WebSocket ping
+5648: 15:05:08.165 - Adding WebSocket TCP listener on :0.0.0.0: 9092 with a listen backlog of: 150
+5648: 15:05:08.165 - Nagle disabled
+5648: 15:05:08.165 - TCP inactivity timeout: 10000ms
+5648: 15:05:08.165 - MaxInboundMessageSize: 512000
+5648: 15:05:08.165 - MaxOutboundMessageSize: 512000
+5648: 15:05:08.165 - Forcing all applications ids to: "Game2"
+5648: 15:05:08.165 - Will accept ANY sub-protocols from the client
+5648: 15:05:08.165 - No automatic WebSocket ping
+5648: 15:05:08.165 - Adding Policy File listener on :0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+5648: 15:05:08.165 - TCP inactivity timeout: 1000ms
+5648: 15:05:08.165 - Adding Policy File listener on :0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy-silverlight.xml"
+5648: 15:05:08.165 - TCP inactivity timeout: 1000ms
+5648: 15:05:08.212 - Service is running...
+5648: 15:05:57.362 - Service is stopped...
+5648: 15:05:57.362 - Server shutting down...
+5648: 15:05:57.362 - Shutdown monitoring enabled, 30000ms before process abort
+5648: 15:05:57.362 - Notifying CLR applications of shutdown...
+5648: 15:05:57.362 - RequestApplicationStop: 5
+5648: 15:05:57.378 - RequestApplicationStop: 3
+5648: 15:05:57.394 - RequestApplicationStop: 4
+5648: 15:05:57.409 - RequestApplicationStop: 2
+5648: 15:05:57.425 - RequestStop: defalt app domain
+5648: 15:05:57.425 - Shutting down WebSocket Outbound Connection Manager...
+5648: 15:05:57.425 - Shutting down TCP Outbound Connection Manager...
+5648: 15:05:57.425 - Shutting down ENet Outbound Connection Manager...
+5648: 15:05:57.425 - Disconnecting all outbound peers...
+5648: 15:05:57.425 - Shutting down ENet host...
+5648: 15:05:57.425 - Disconnecting all peers...
+5648: 15:05:57.425 - Shutting down socket servers...
+5648: 15:05:57.425 - Shutting down ENet thread pool...
+5648: 15:05:57.425 - Shutting down TCP inactivity timers...
+5648: 15:05:57.425 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+5648: 15:05:57.425 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+5648: 15:05:57.425 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+5648: 15:05:57.425 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+5648: 15:05:57.425 - WaitingForShutdownToComplete: TCP:0.0.0.0:4520
+5648: 15:05:57.425 - OnShutdownCompleted: TCP:0.0.0.0:4520
+5648: 15:05:57.425 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+5648: 15:05:57.425 - OnShutdownCompleted: TCP:0.0.0.0:4530
+5648: 15:05:57.425 - WaitingForShutdownToComplete: TCP:0.0.0.0:4531
+5648: 15:05:57.425 - OnShutdownCompleted: TCP:0.0.0.0:4531
+5648: 15:05:57.425 - WaitingForShutdownToComplete: TCP:0.0.0.0:4532
+5648: 15:05:57.425 - OnShutdownCompleted: TCP:0.0.0.0:4532
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:127.0.0.1:5055
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:127.0.0.1:5056
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:127.0.0.1:5056
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:127.0.0.1:5057
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:127.0.0.1:5057
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:192.168.1.116:5055
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:192.168.1.116:5055
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:192.168.1.116:5056
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:192.168.1.116:5056
+5648: 15:05:57.425 - WaitingForShutdownToComplete: UDP:192.168.1.116:5057
+5648: 15:05:57.425 - OnShutdownCompleted: UDP:192.168.1.116:5057
+5648: 15:05:57.425 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+5648: 15:05:57.425 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+5648: 15:05:57.425 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9091
+5648: 15:05:57.425 - OnShutdownCompleted: WebSocket:0.0.0.0:9091
+5648: 15:05:57.425 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9092
+5648: 15:05:57.425 - OnShutdownCompleted: WebSocket:0.0.0.0:9092
+5648: 15:05:57.425 - Shutting down CLR applications...
+7648: 15:05:57.440 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4764: 15:05:57.456 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='5'
+7648: 15:05:57.456 - CManagedHost::OnDomainUnload() - 5
+5648: 15:05:57.456 - Shutting down business logic thread pool...
+5648: 15:05:57.456 - Shutting down I/O thread pool...
+5648: 15:05:57.456 - Destroying servers
+5648: 15:05:57.456 - Destroying WebSocket Outbound Connection Manager
+5648: 15:05:57.456 - Destroying TCP Outbound Connection Manager
+5648: 15:05:57.456 - Destroying TCP inactivity timer
+5648: 15:05:57.456 - Destroying ENet timer wheel
+5648: 15:05:57.456 - Destroying ENet host
+5648: 15:05:57.456 - Destroying ENet outbound host
+5648: 15:05:57.456 - Destroying HTTP inactivity timer
+5648: 15:05:57.456 - Destroying HTTP host
+5648: 15:05:57.456 - Flushing ENET buffer allocator...
+5648: 15:05:57.456 - Flushing TCP buffer handle allocator...
+5648: 15:05:57.456 - Flushing stream socket allocator...
+5648: 15:05:57.456 - Flushing inbound datagram socket allocator...
+5648: 15:05:57.456 - Flushing outbound datagram socket allocator...
+5648: 15:05:57.456 - Destroying CLR dispatcher
+5648: 15:05:57.456 - Destroying CLR applications
+5648: 15:05:57.456 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+7648: 15:05:57.472 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4764: 15:05:57.487 - Unloading Domain: ApplicationName = 'Master', DomainId='2'
+7648: 15:05:57.487 - CManagedHost::OnDomainUnload() - 2
+7648: 15:05:57.487 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4764: 15:05:57.503 - Unloading Domain: ApplicationName = 'Game1', DomainId='3'
+7648: 15:05:57.503 - CManagedHost::OnDomainUnload() - 3
+7648: 15:05:57.503 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4764: 15:05:57.534 - Unloading Domain: ApplicationName = 'Game2', DomainId='4'
+7648: 15:05:57.534 - CManagedHost::OnDomainUnload() - 4
+5648: 15:05:57.534 - ~CCLRApplicationCollection() - Done. All objects released
+5648: 15:05:57.534 - ~CManagedHost() - Release default app domain
+5648: 15:05:57.534 - CManagedHost::OnDomainUnload() - 1
+5648: 15:05:57.534 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+5648: 15:05:57.534 - ~CManagedHost
+5648: 15:05:57.534 - Destroying ENet thread pool
+5648: 15:05:57.534 - Destroying Business logic thread pool
+5648: 15:05:57.534 - Destroying I/O thread pool
+5648: 15:05:57.534 - Destroying ENet buffer allocator
+5648: 15:05:57.534 - Destroying TCP buffer allocator
+5648: 15:05:57.534 - Destroying TCP socket allocator
+5648: 15:05:57.534 - Destroying ENet inbound socket allocator
+5648: 15:05:57.534 - Destroying ENet outbound socket allocator
+5648: 15:05:57.534 - Shutdown complete...
+5648: 15:05:57.534 - Service shutting down
+5648: 15:05:57.534 - Service shut down complete

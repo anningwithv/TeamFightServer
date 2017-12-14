@@ -1,0 +1,10 @@
+2015-05-07 12:03:29,028 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MmoDemo; AppPath=E:\TaidouPhotonServer\deploy\MmoDemo, Type=Photon.MmoDemo.Server.PhotonApplication 
+2015-05-07 12:05:39,735 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MmoDemo
+2015-05-07 12:05:39,760 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MmoDemo
+2015-05-07 12:05:59,363 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MmoDemo; AppPath=E:\TaidouPhotonServer\deploy\MmoDemo, Type=Photon.MmoDemo.Server.PhotonApplication 
+2015-05-07 12:06:42,100 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MmoDemo
+2015-05-07 12:06:42,128 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MmoDemo
+2015-05-07 12:07:12,712 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MmoDemo; AppPath=E:\TaidouPhotonServer\deploy\MmoDemo, Type=Photon.MmoDemo.Server.PhotonApplication 
+2015-05-07 12:07:23,130 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MmoDemo
+2015-05-07 12:07:23,154 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MmoDemo
+2015-05-07 12:18:16,151 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MmoDemo; AppPath=E:\TaidouPhotonServer\deploy\MmoDemo, Type=Photon.MmoDemo.Server.PhotonApplication 

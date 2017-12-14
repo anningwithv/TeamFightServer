@@ -1,0 +1,18 @@
+4152: 12:05:39.715 - ---
+4152: 12:05:39.715 - Service: "Photon Socket Server" starting
+4152: 12:05:39.715 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+4152: 12:05:39.716 - Will produce at most: 10 crash dumps
+4152: 12:05:39.716 - Service shutting down
+4152: 12:05:39.717 - Service shut down complete
+4680: 12:06:42.077 - ---
+4680: 12:06:42.077 - Service: "Photon Socket Server" starting
+4680: 12:06:42.077 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+4680: 12:06:42.078 - Will produce at most: 10 crash dumps
+4680: 12:06:42.078 - Service shutting down
+4680: 12:06:42.080 - Service shut down complete
+3660: 12:07:23.108 - ---
+3660: 12:07:23.108 - Service: "Photon Socket Server" starting
+3660: 12:07:23.108 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+3660: 12:07:23.110 - Will produce at most: 10 crash dumps
+3660: 12:07:23.110 - Service shutting down
+3660: 12:07:23.110 - Service shut down complete

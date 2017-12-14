@@ -1,0 +1,346 @@
+11372: 18:38:15.468 - ---
+11372: 18:38:15.468 - Service: "Photon Socket Server" starting
+11372: 18:38:15.468 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+11372: 18:38:15.470 - Will produce at most: 10 crash dumps
+11372: 18:38:15.470 - Action: run as exe
+11372: 18:38:15.471 - Server Starting...
+11372: 18:38:15.471 -    Tick count: 97781312 (wraps in: 48.5785 days)
+11372: 18:38:15.471 - Tick count 64: 97781312
+11372: 18:38:15.471 - Photon Version: 3.4.5.2597
+11372: 18:38:15.471 - PID: 4148
+11372: 18:38:15.471 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+11372: 18:38:15.472 - Will NOT log unimportant exceptions
+11372: 18:38:15.474 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+11372: 18:38:15.474 - Shutdown timeout enabled: 30000ms
+11372: 18:38:15.474 - Starting I/O thread pool with 2 threads
+11372: 18:38:15.474 - Using Standard allocator
+11372: 18:38:15.474 - Max message size: 512000
+11372: 18:38:15.474 - Starting business logic thread pool with the following settings
+11372: 18:38:15.474 - InitialThreads: 4 threads
+11372: 18:38:15.474 - MinThreads: 4 threads
+11372: 18:38:15.474 - Thread pool is fixed size
+11372: 18:38:15.475 - Starting ENet thread pool with the following settings
+11372: 18:38:15.475 - InitialThreads: 2 threads
+11372: 18:38:15.475 - MinThreads: 2 threads
+11372: 18:38:15.475 - Thread pool is fixed size
+11372: 18:38:15.475 - OnlyDispatchTimers: False
+11372: 18:38:15.475 - S2S: flow control: Max pending writes: 50
+11372: 18:38:15.475 - S2S: flow control: Max queued buffers: 200
+11372: 18:38:15.475 - S2S: flow control: Max pending writes MUX: 500
+11372: 18:38:15.475 - S2S: flow control: Max queued buffers MUX: 2000
+11372: 18:38:15.475 - S2S: MaxInboundMessageSize: 512000
+11372: 18:38:15.475 - S2S: MaxOutboundMessageSize: 512000
+11372: 18:38:15.475 - S2S: No inactivity timeout
+11372: 18:38:15.479 - WebSocket S2S: MaxInboundMessageSize: 512000
+11372: 18:38:15.479 - WebSocket S2S: MaxOutboundMessageSize: 512000
+11372: 18:38:15.479 - WebSocket S2S: No inactivity timeout
+11372: 18:38:15.480 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+11372: 18:38:15.480 - Per peer bandwidth limit
+11372: 18:38:15.480 - Transmit Rate Limit: 256 KB/Sec
+11372: 18:38:15.480 - Limit period: 200ms
+11372: 18:38:15.480 - Limit per period: 52428 bytes
+11372: 18:38:15.480 - Max queued data for transmission per peer: 512000 bytes
+11372: 18:38:15.480 - Minimum retransmit timeout: 200
+11372: 18:38:15.480 - Minimum ENet timeout: 5000ms
+11372: 18:38:15.480 - Maximum ENet timeout: 30000ms
+11372: 18:38:15.480 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+11372: 18:38:15.480 - Outbound ENet: MaxInboundMessageSize: 512000
+11372: 18:38:15.480 - Outbound ENet: MaxOutboundMessageSize: 512000
+11372: 18:38:15.507 - GetRuntime - About to load CLR - versions available:
+11372: 18:38:15.507 - v2.0.50727
+11372: 18:38:15.507 - v4.0.30319
+11372: 18:38:15.507 - Configuration requests: "v2.0.50727"
+11372: 18:38:15.507 - About to load version: "v2.0.50727"
+11372: 18:38:15.516 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+11372: 18:38:15.516 - CLRBaseDirectory set to "E:\TaidouPhotonServer\deploy"
+11372: 18:38:15.516 - Optimising event broadcast for 20 or more peers
+11372: 18:38:15.517 - Start: About to load CLR - versions available:
+11372: 18:38:15.517 - v2.0.50727
+11372: 18:38:15.517 - v4.0.30319
+11372: 18:38:15.517 - No preference in configuration file, will load latest.
+11372: 18:38:15.517 - About to load version: "v4.0.30319"
+11372: 18:38:15.519 - Loaded version: "v4.0.30319"
+11372: 18:38:16.154 - Photon host runtime loaded
+11372: 18:38:26.234 - License is valid.
+11372: 18:38:26.234 - Licensed for 100 concurrent connections.
+11372: 18:38:26.234 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+11372: 18:38:26.234 - ENet: Per peer bandwidth limit
+11372: 18:38:26.234 - ENet: Transmit Rate Limit: 256 KB/Sec
+11372: 18:38:26.234 - ENet: Limit period: 200ms
+11372: 18:38:26.234 - ENet: Limit per period: 52428 bytes
+11372: 18:38:26.234 - ENet: Max queued data for transmission per peer: 512000 bytes
+11372: 18:38:26.234 - ENet: Minimum retransmit timeout: 200
+11372: 18:38:26.234 - ENet: Minimum timeout: 5000ms
+11372: 18:38:26.234 - ENet: Maximum timeout: 30000ms
+11372: 18:38:26.234 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+11372: 18:38:26.235 - About to load application: TaidouServer from TaidouServer
+11372: 18:38:26.235 - Auto restart is enabled for application, existing connections will be terminated during restart
+11372: 18:38:26.235 - Application will restart 1000ms after the last change detected
+11372: 18:38:26.235 - Application will restart if files matching the following are changed: "dll;config"
+11372: 18:38:26.235 - Application will NOT restart if files matching the following are changed: "log4net.config"
+11372: 18:38:26.655 - Taking reference on default app domain
+11372: 18:38:27.070 - Application: "TaidouServer" started in app domain: 2
+11372: 18:38:27.070 - About to load application: CounterPublisher from CounterPublisher
+11372: 18:38:27.070 - Auto restart is enabled for application, existing connections will be terminated during restart
+11372: 18:38:27.070 - Application will restart 1000ms after the last change detected
+11372: 18:38:27.070 - Application will restart if files matching the following are changed: "dll;config"
+11372: 18:38:27.070 - Application will NOT restart if files matching the following are changed: "log4net.config"
+11372: 18:38:27.442 - Taking reference on default app domain
+11372: 18:38:27.770 - Application: "CounterPublisher" started in app domain: 3
+11372: 18:38:27.770 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+11372: 18:38:27.770 - TCP inactivity timeout: 10000ms
+11372: 18:38:27.770 - TCP disconnect timeout: 120000ms
+11372: 18:38:27.770 - MaxInboundMessageSize: 512000
+11372: 18:38:27.770 - MaxOutboundMessageSize: 512000
+11372: 18:38:27.772 - Serving policy file requests from: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+11372: 18:38:27.772 - MaxInboundMessageSize: 512000
+11372: 18:38:27.772 - MaxOutboundMessageSize: 512000
+11372: 18:38:27.772 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+11372: 18:38:27.773 - Adding UDP listener on :192.168.199.232: 5055 with a listen backlog of: 500
+11372: 18:38:27.773 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+11372: 18:38:27.773 - Adding Policy File listener on :0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+11372: 18:38:27.774 - TCP inactivity timeout: 10000ms
+11372: 18:38:27.780 - Adding Policy File listener on :0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy-silverlight.xml"
+11372: 18:38:27.780 - TCP inactivity timeout: 10000ms
+11372: 18:38:27.803 - Service is running...
+11372: 18:42:54.949 - Service is stopped...
+11372: 18:42:54.949 - Server shutting down...
+11372: 18:42:54.949 - Shutdown monitoring enabled, 30000ms before process abort
+11372: 18:42:54.949 - Notifying CLR applications of shutdown...
+11372: 18:42:54.949 - RequestApplicationStop: 3
+11372: 18:42:54.964 - RequestApplicationStop: 2
+11372: 18:42:54.978 - RequestStop: defalt app domain
+11372: 18:42:54.986 - Shutting down WebSocket Outbound Connection Manager...
+11372: 18:42:54.986 - Shutting down TCP Outbound Connection Manager...
+11372: 18:42:54.986 - Shutting down ENet Outbound Connection Manager...
+11372: 18:42:54.986 - Disconnecting all outbound peers...
+11372: 18:42:54.986 - Shutting down ENet host...
+11372: 18:42:54.986 - Disconnecting all peers...
+11372: 18:42:54.986 - Shutting down socket servers...
+11372: 18:42:54.986 - Shutting down ENet thread pool...
+11372: 18:42:54.987 - Shutting down TCP inactivity timers...
+11372: 18:42:54.987 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+11372: 18:42:54.987 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+11372: 18:42:54.987 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+11372: 18:42:54.987 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+11372: 18:42:54.987 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+11372: 18:42:54.987 - OnShutdownCompleted: TCP:0.0.0.0:4530
+11372: 18:42:54.987 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+11372: 18:42:54.987 - OnShutdownCompleted: UDP:127.0.0.1:5055
+11372: 18:42:54.987 - WaitingForShutdownToComplete: UDP:192.168.199.232:5055
+11372: 18:42:54.987 - OnShutdownCompleted: UDP:192.168.199.232:5055
+11372: 18:42:54.987 - Shutting down CLR applications...
+6964: 18:42:55.006 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+11372: 18:42:55.025 - Shutting down business logic thread pool...
+11372: 18:42:55.025 - Shutting down I/O thread pool...
+11372: 18:42:55.025 - Destroying servers
+11372: 18:42:55.025 - Destroying WebSocket Outbound Connection Manager
+11372: 18:42:55.025 - Destroying TCP Outbound Connection Manager
+11372: 18:42:55.025 - Destroying TCP inactivity timer
+11372: 18:42:55.025 - Destroying ENet timer wheel
+11372: 18:42:55.025 - Destroying ENet host
+11372: 18:42:55.025 - Destroying ENet outbound host
+11372: 18:42:55.025 - Destroying HTTP inactivity timer
+11372: 18:42:55.025 - Destroying HTTP host
+11372: 18:42:55.025 - Flushing ENET buffer allocator...
+11372: 18:42:55.028 - Flushing TCP buffer handle allocator...
+11372: 18:42:55.028 - Flushing stream socket allocator...
+11372: 18:42:55.028 - Flushing inbound datagram socket allocator...
+11372: 18:42:55.029 - Flushing outbound datagram socket allocator...
+11372: 18:42:55.029 - Destroying CLR dispatcher
+11372: 18:42:55.029 - Destroying CLR applications
+11372: 18:42:55.030 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+12008: 18:42:55.049 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+6964: 18:42:55.050 - CManagedHost::OnDomainUnload() - 3
+6964: 18:42:55.062 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+12008: 18:42:55.101 - Unloading Domain: ApplicationName = 'TaidouServer', DomainId='2'
+6964: 18:42:55.101 - CManagedHost::OnDomainUnload() - 2
+11372: 18:42:55.103 - ~CCLRApplicationCollection() - Done. All objects released
+11372: 18:42:55.103 - ~CManagedHost() - Release default app domain
+11372: 18:42:55.103 - CManagedHost::OnDomainUnload() - 1
+11372: 18:42:55.103 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+11372: 18:42:55.103 - ~CManagedHost
+11372: 18:42:55.103 - Destroying ENet thread pool
+11372: 18:42:55.103 - Destroying Business logic thread pool
+11372: 18:42:55.103 - Destroying I/O thread pool
+11372: 18:42:55.103 - Destroying ENet buffer allocator
+11372: 18:42:55.103 - Destroying TCP buffer allocator
+11372: 18:42:55.103 - Destroying TCP socket allocator
+11372: 18:42:55.103 - Destroying ENet inbound socket allocator
+11372: 18:42:55.103 - Destroying ENet outbound socket allocator
+11372: 18:42:55.103 - Shutdown complete...
+11372: 18:42:55.103 - Service shutting down
+11372: 18:42:55.108 - Service shut down complete
+4700: 18:42:58.738 - ---
+4700: 18:42:58.738 - Service: "Photon Socket Server" starting
+4700: 18:42:58.738 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+4700: 18:42:58.741 - Will produce at most: 10 crash dumps
+4700: 18:42:58.741 - Action: run as exe
+4700: 18:42:58.741 - Server Starting...
+4700: 18:42:58.741 -    Tick count: 98064578 (wraps in: 48.5753 days)
+4700: 18:42:58.741 - Tick count 64: 98064578
+4700: 18:42:58.741 - Photon Version: 3.4.5.2597
+4700: 18:42:58.741 - PID: 11000
+4700: 18:42:58.742 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+4700: 18:42:58.743 - Will NOT log unimportant exceptions
+4700: 18:42:58.746 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+4700: 18:42:58.746 - Shutdown timeout enabled: 30000ms
+4700: 18:42:58.746 - Starting I/O thread pool with 2 threads
+4700: 18:42:58.746 - Using Standard allocator
+4700: 18:42:58.746 - Max message size: 512000
+4700: 18:42:58.747 - Starting business logic thread pool with the following settings
+4700: 18:42:58.747 - InitialThreads: 4 threads
+4700: 18:42:58.747 - MinThreads: 4 threads
+4700: 18:42:58.747 - Thread pool is fixed size
+4700: 18:42:58.747 - Starting ENet thread pool with the following settings
+4700: 18:42:58.747 - InitialThreads: 2 threads
+4700: 18:42:58.747 - MinThreads: 2 threads
+4700: 18:42:58.747 - Thread pool is fixed size
+4700: 18:42:58.747 - OnlyDispatchTimers: False
+4700: 18:42:58.747 - S2S: flow control: Max pending writes: 50
+4700: 18:42:58.747 - S2S: flow control: Max queued buffers: 200
+4700: 18:42:58.747 - S2S: flow control: Max pending writes MUX: 500
+4700: 18:42:58.747 - S2S: flow control: Max queued buffers MUX: 2000
+4700: 18:42:58.747 - S2S: MaxInboundMessageSize: 512000
+4700: 18:42:58.747 - S2S: MaxOutboundMessageSize: 512000
+4700: 18:42:58.747 - S2S: No inactivity timeout
+4700: 18:42:58.750 - WebSocket S2S: MaxInboundMessageSize: 512000
+4700: 18:42:58.750 - WebSocket S2S: MaxOutboundMessageSize: 512000
+4700: 18:42:58.750 - WebSocket S2S: No inactivity timeout
+4700: 18:42:58.751 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+4700: 18:42:58.751 - Per peer bandwidth limit
+4700: 18:42:58.751 - Transmit Rate Limit: 256 KB/Sec
+4700: 18:42:58.751 - Limit period: 200ms
+4700: 18:42:58.751 - Limit per period: 52428 bytes
+4700: 18:42:58.751 - Max queued data for transmission per peer: 512000 bytes
+4700: 18:42:58.751 - Minimum retransmit timeout: 200
+4700: 18:42:58.751 - Minimum ENet timeout: 5000ms
+4700: 18:42:58.751 - Maximum ENet timeout: 30000ms
+4700: 18:42:58.751 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+4700: 18:42:58.751 - Outbound ENet: MaxInboundMessageSize: 512000
+4700: 18:42:58.751 - Outbound ENet: MaxOutboundMessageSize: 512000
+4700: 18:42:58.753 - GetRuntime - About to load CLR - versions available:
+4700: 18:42:58.753 - v2.0.50727
+4700: 18:42:58.753 - v4.0.30319
+4700: 18:42:58.753 - Configuration requests: "v2.0.50727"
+4700: 18:42:58.753 - About to load version: "v2.0.50727"
+4700: 18:42:58.759 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+4700: 18:42:58.759 - CLRBaseDirectory set to "E:\TaidouPhotonServer\deploy"
+4700: 18:42:58.759 - Optimising event broadcast for 20 or more peers
+4700: 18:42:58.761 - Start: About to load CLR - versions available:
+4700: 18:42:58.761 - v2.0.50727
+4700: 18:42:58.761 - v4.0.30319
+4700: 18:42:58.761 - No preference in configuration file, will load latest.
+4700: 18:42:58.761 - About to load version: "v4.0.30319"
+4700: 18:42:58.763 - Loaded version: "v4.0.30319"
+4700: 18:42:59.308 - Photon host runtime loaded
+4700: 18:43:10.766 - License is valid.
+4700: 18:43:10.766 - Licensed for 100 concurrent connections.
+4700: 18:43:10.766 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+4700: 18:43:10.766 - ENet: Per peer bandwidth limit
+4700: 18:43:10.766 - ENet: Transmit Rate Limit: 256 KB/Sec
+4700: 18:43:10.766 - ENet: Limit period: 200ms
+4700: 18:43:10.766 - ENet: Limit per period: 52428 bytes
+4700: 18:43:10.766 - ENet: Max queued data for transmission per peer: 512000 bytes
+4700: 18:43:10.766 - ENet: Minimum retransmit timeout: 200
+4700: 18:43:10.766 - ENet: Minimum timeout: 5000ms
+4700: 18:43:10.766 - ENet: Maximum timeout: 30000ms
+4700: 18:43:10.766 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+4700: 18:43:10.766 - About to load application: TaidouServer from TaidouServer
+4700: 18:43:10.766 - Auto restart is enabled for application, existing connections will be terminated during restart
+4700: 18:43:10.766 - Application will restart 1000ms after the last change detected
+4700: 18:43:10.766 - Application will restart if files matching the following are changed: "dll;config"
+4700: 18:43:10.766 - Application will NOT restart if files matching the following are changed: "log4net.config"
+4700: 18:43:11.096 - Taking reference on default app domain
+4700: 18:43:11.248 - Application: "TaidouServer" started in app domain: 2
+4700: 18:43:11.249 - About to load application: CounterPublisher from CounterPublisher
+4700: 18:43:11.249 - Auto restart is enabled for application, existing connections will be terminated during restart
+4700: 18:43:11.249 - Application will restart 1000ms after the last change detected
+4700: 18:43:11.249 - Application will restart if files matching the following are changed: "dll;config"
+4700: 18:43:11.249 - Application will NOT restart if files matching the following are changed: "log4net.config"
+4700: 18:43:11.491 - Taking reference on default app domain
+4700: 18:43:11.661 - Application: "CounterPublisher" started in app domain: 3
+4700: 18:43:11.661 - Adding TCP listener on :0.0.0.0: 4530 with a listen backlog of: 150
+4700: 18:43:11.661 - TCP inactivity timeout: 10000ms
+4700: 18:43:11.661 - TCP disconnect timeout: 120000ms
+4700: 18:43:11.662 - MaxInboundMessageSize: 512000
+4700: 18:43:11.662 - MaxOutboundMessageSize: 512000
+4700: 18:43:11.662 - Serving policy file requests from: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+4700: 18:43:11.662 - MaxInboundMessageSize: 512000
+4700: 18:43:11.662 - MaxOutboundMessageSize: 512000
+4700: 18:43:11.662 - UDP address specified as:0.0.0.0 adding listener to each available IPv4 address
+4700: 18:43:11.663 - Adding UDP listener on :192.168.199.232: 5055 with a listen backlog of: 500
+4700: 18:43:11.663 - Adding UDP listener on :127.0.0.1: 5055 with a listen backlog of: 500
+4700: 18:43:11.664 - Adding Policy File listener on :0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy.xml"
+4700: 18:43:11.664 - TCP inactivity timeout: 10000ms
+4700: 18:43:11.664 - Adding Policy File listener on :0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "E:\TaidouPhotonServer\deploy\Policy\assets\socket-policy-silverlight.xml"
+4700: 18:43:11.664 - TCP inactivity timeout: 10000ms
+4700: 18:43:11.695 - Service is running...
+4700: 18:45:20.645 - Service is stopped...
+4700: 18:45:20.645 - Server shutting down...
+4700: 18:45:20.645 - Shutdown monitoring enabled, 30000ms before process abort
+4700: 18:45:20.645 - Notifying CLR applications of shutdown...
+4700: 18:45:20.645 - RequestApplicationStop: 3
+4700: 18:45:20.658 - RequestApplicationStop: 2
+4700: 18:45:20.671 - RequestStop: defalt app domain
+4700: 18:45:20.677 - Shutting down WebSocket Outbound Connection Manager...
+4700: 18:45:20.677 - Shutting down TCP Outbound Connection Manager...
+4700: 18:45:20.677 - Shutting down ENet Outbound Connection Manager...
+4700: 18:45:20.677 - Disconnecting all outbound peers...
+4700: 18:45:20.677 - Shutting down ENet host...
+4700: 18:45:20.677 - Disconnecting all peers...
+4700: 18:45:20.677 - Shutting down socket servers...
+4700: 18:45:20.677 - Shutting down ENet thread pool...
+4700: 18:45:20.677 - Shutting down TCP inactivity timers...
+4700: 18:45:20.678 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+4700: 18:45:20.678 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+4700: 18:45:20.678 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+4700: 18:45:20.678 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+4700: 18:45:20.678 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+4700: 18:45:20.678 - OnShutdownCompleted: TCP:0.0.0.0:4530
+4700: 18:45:20.678 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+4700: 18:45:20.678 - OnShutdownCompleted: UDP:127.0.0.1:5055
+4700: 18:45:20.678 - WaitingForShutdownToComplete: UDP:192.168.199.232:5055
+4700: 18:45:20.678 - OnShutdownCompleted: UDP:192.168.199.232:5055
+4700: 18:45:20.678 - Shutting down CLR applications...
+8612: 18:45:20.689 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+4700: 18:45:20.707 - Shutting down business logic thread pool...
+4700: 18:45:20.707 - Shutting down I/O thread pool...
+4700: 18:45:20.707 - Destroying servers
+4700: 18:45:20.707 - Destroying WebSocket Outbound Connection Manager
+4700: 18:45:20.707 - Destroying TCP Outbound Connection Manager
+4700: 18:45:20.707 - Destroying TCP inactivity timer
+4700: 18:45:20.707 - Destroying ENet timer wheel
+4700: 18:45:20.708 - Destroying ENet host
+4700: 18:45:20.708 - Destroying ENet outbound host
+4700: 18:45:20.708 - Destroying HTTP inactivity timer
+4700: 18:45:20.708 - Destroying HTTP host
+4700: 18:45:20.708 - Flushing ENET buffer allocator...
+4700: 18:45:20.710 - Flushing TCP buffer handle allocator...
+4700: 18:45:20.710 - Flushing stream socket allocator...
+4700: 18:45:20.711 - Flushing inbound datagram socket allocator...
+4700: 18:45:20.712 - Flushing outbound datagram socket allocator...
+4700: 18:45:20.712 - Destroying CLR dispatcher
+4700: 18:45:20.712 - Destroying CLR applications
+4700: 18:45:20.712 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+10904: 18:45:20.729 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+8612: 18:45:20.730 - CManagedHost::OnDomainUnload() - 3
+8612: 18:45:20.739 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+10904: 18:45:20.774 - Unloading Domain: ApplicationName = 'TaidouServer', DomainId='2'
+8612: 18:45:20.774 - CManagedHost::OnDomainUnload() - 2
+4700: 18:45:20.775 - ~CCLRApplicationCollection() - Done. All objects released
+4700: 18:45:20.776 - ~CManagedHost() - Release default app domain
+4700: 18:45:20.776 - CManagedHost::OnDomainUnload() - 1
+4700: 18:45:20.776 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+4700: 18:45:20.776 - ~CManagedHost
+4700: 18:45:20.776 - Destroying ENet thread pool
+4700: 18:45:20.776 - Destroying Business logic thread pool
+4700: 18:45:20.776 - Destroying I/O thread pool
+4700: 18:45:20.776 - Destroying ENet buffer allocator
+4700: 18:45:20.776 - Destroying TCP buffer allocator
+4700: 18:45:20.776 - Destroying TCP socket allocator
+4700: 18:45:20.776 - Destroying ENet inbound socket allocator
+4700: 18:45:20.776 - Destroying ENet outbound socket allocator
+4700: 18:45:20.776 - Shutdown complete...
+4700: 18:45:20.776 - Service shutting down
+4700: 18:45:20.778 - Service shut down complete

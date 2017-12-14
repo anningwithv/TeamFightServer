@@ -1,0 +1,12 @@
+5348: 16:08:49.511 - ---
+5348: 16:08:49.512 - Service: "Photon Socket Server" starting
+5348: 16:08:49.512 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5348: 16:08:49.513 - Will produce at most: 10 crash dumps
+5348: 16:08:49.513 - Service shutting down
+5348: 16:08:49.514 - Service shut down complete
+5456: 16:09:39.721 - ---
+5456: 16:09:39.721 - Service: "Photon Socket Server" starting
+5456: 16:09:39.721 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5456: 16:09:39.722 - Will produce at most: 10 crash dumps
+5456: 16:09:39.722 - Service shutting down
+5456: 16:09:39.723 - Service shut down complete

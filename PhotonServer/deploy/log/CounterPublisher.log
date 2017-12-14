@@ -1,0 +1,434 @@
+2015-05-05 17:43:54,550 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-05 17:43:54,587 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-05 17:43:54,590 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-05 17:47:23,252 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-05 17:47:23,279 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-07 12:03:28,258 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:03:28,300 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-07 12:03:28,303 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:05:39,719 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-07 12:05:39,741 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-07 12:05:58,649 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:05:58,681 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-07 12:05:58,683 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:06:42,085 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-07 12:06:42,110 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-07 12:07:11,988 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:07:12,020 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-07 12:07:12,023 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:07:23,113 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-07 12:07:23,140 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-07 12:18:15,318 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:18:15,353 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-07 12:18:15,356 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 21:23:04,481 [25] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-05-11 16:06:55,450 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-11 16:06:55,492 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-11 16:06:55,496 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-11 16:08:49,463 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-11 16:08:49,481 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-11 16:09:23,262 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-11 16:09:23,300 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-11 16:09:23,303 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-11 16:09:39,723 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-11 16:09:39,739 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-12 18:38:29,090 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-12 18:38:29,187 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-12 18:38:29,193 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-12 18:42:54,959 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-12 18:42:54,999 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-12 18:43:12,860 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-12 18:43:12,935 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-12 18:43:12,940 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-12 18:45:20,653 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-12 18:45:20,685 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-18 14:47:57,142 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 14:47:57,293 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-18 14:47:57,299 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 14:57:55,689 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-18 14:57:55,725 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-18 14:58:33,283 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 14:58:33,362 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-18 14:58:33,368 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 14:59:15,536 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-18 14:59:15,581 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-18 15:00:12,050 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 15:00:12,118 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-18 15:00:12,124 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 17:59:18,800 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-18 17:59:18,844 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-18 17:59:41,576 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 17:59:41,650 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-18 17:59:41,657 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-18 21:35:52,719 [12] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-05-20 14:34:16,227 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-20 14:34:16,340 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-20 14:34:33,012 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-20 14:34:33,094 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-20 14:34:33,101 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-20 18:18:16,398 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-20 18:18:16,423 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 11:25:49,113 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 11:25:49,269 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 11:25:49,269 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:31:09,678 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:31:09,772 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:34:40,816 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:34:40,878 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:34:40,878 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:37:21,031 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:37:21,063 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:37:39,167 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:37:39,242 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:37:39,248 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:38:25,412 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:38:25,443 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:39:07,335 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:39:07,413 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:39:07,413 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:39:37,819 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:39:37,866 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:40:02,215 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:40:02,293 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:40:02,293 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:43:10,525 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:43:10,556 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:43:26,276 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:43:26,338 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:43:26,354 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:55:25,859 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 16:55:25,875 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 16:56:47,823 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 16:56:47,901 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 16:56:47,901 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 18:12:40,569 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 18:12:40,601 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-05-31 18:12:56,014 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 18:12:56,092 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-05-31 18:12:56,092 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-31 18:18:57,053 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-05-31 18:18:57,084 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-02 11:51:10,727 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-02 11:51:10,871 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-02 11:51:10,876 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-02 11:54:14,953 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-02 11:54:14,990 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-02 11:54:31,105 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-02 11:54:31,176 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-02 11:54:31,183 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-06 17:44:57,938 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-06 17:44:58,105 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-06 17:44:58,112 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-06 18:11:40,726 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-06 18:11:40,805 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-06 18:14:01,481 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-06 18:14:01,558 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-06 18:14:01,564 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-06 18:17:45,350 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-06 18:17:45,387 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-09 09:57:31,310 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-09 09:57:31,390 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-09 09:57:31,394 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-09 09:57:32,139 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-09 09:57:32,259 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-09 09:58:04,579 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-09 09:58:04,612 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-09 09:58:04,615 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-09 09:58:05,450 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-09 09:58:05,525 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 10:18:11,838 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:18:11,880 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 10:18:11,883 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:18:12,801 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 10:18:12,896 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 10:20:05,678 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:20:05,709 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 10:20:05,712 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:20:06,642 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 10:20:06,676 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 10:21:10,072 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:21:10,104 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 10:21:10,107 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:21:11,052 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 10:21:11,086 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 10:22:28,764 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:22:28,796 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 10:22:28,799 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:22:29,708 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 10:22:29,736 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 10:55:37,515 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:55:37,547 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 10:55:37,550 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 10:55:37,767 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 10:55:37,795 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 15:14:32,037 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 15:14:32,130 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 15:14:32,130 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 15:32:07,704 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 15:32:07,719 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-14 15:58:58,217 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 15:58:58,264 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-14 15:58:58,264 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-14 17:05:32,066 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-14 17:05:32,079 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 00:43:55,038 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 00:43:55,147 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 00:43:55,163 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 00:47:01,322 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 00:47:01,353 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 00:47:27,331 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 00:47:27,393 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 00:47:27,393 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 04:13:48,338 [6] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-06-17 07:38:19,974 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 07:38:22,685 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 08:25:03,821 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 08:25:03,868 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 08:25:03,868 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 08:25:08,950 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 08:25:08,965 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 08:25:18,715 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 08:25:18,762 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 08:25:18,762 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 21:36:04,067 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 21:36:04,176 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 21:36:04,192 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 21:36:28,682 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 21:36:28,713 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 21:36:43,665 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 21:36:43,732 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 21:36:43,737 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 22:16:33,602 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 22:16:33,618 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 22:17:15,860 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 22:17:15,938 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 22:17:15,938 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 22:18:58,399 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-17 22:18:58,446 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-17 22:19:22,046 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-17 22:19:22,124 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-17 22:19:22,140 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 10:39:46,505 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 10:39:46,599 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-20 10:39:46,614 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 10:45:29,548 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-20 10:45:29,579 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-20 10:45:47,306 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 10:45:47,350 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-20 10:45:47,354 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 13:44:01,589 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-20 13:44:01,605 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-20 15:41:47,371 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 15:41:47,402 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-20 15:41:47,402 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-20 20:03:31,798 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-20 20:03:31,858 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-26 10:11:43,720 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:11:43,782 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-26 10:11:43,782 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:11:45,220 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-26 10:11:45,313 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-26 10:12:13,436 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:12:13,529 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-26 10:12:13,529 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:12:23,076 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-26 10:12:23,123 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-26 10:13:37,070 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:13:37,195 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-26 10:13:37,211 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-26 10:13:38,070 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-26 10:13:38,102 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-28 15:22:40,213 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-28 15:22:40,305 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-28 15:22:40,308 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-29 02:16:07,032 [11] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-06-29 08:43:27,352 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-29 08:43:27,456 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-29 21:34:12,794 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-29 21:34:12,904 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-29 21:34:12,904 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-30 08:40:45,102 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-06-30 08:40:45,140 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-06-30 19:53:20,510 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-06-30 19:53:20,833 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-06-30 19:53:20,837 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-01 03:09:53,132 [8] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-03 15:43:35,805 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 15:43:35,868 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 15:43:35,868 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 16:36:58,095 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 16:36:58,146 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 16:37:15,580 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 16:37:15,622 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 16:37:15,626 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 19:51:00,261 [17] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-03 19:57:46,073 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 19:57:46,092 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 19:58:01,612 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 19:58:01,657 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 19:58:01,661 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:17:09,353 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 21:17:09,370 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 21:17:35,465 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:17:35,498 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 21:17:35,502 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:18:18,179 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 21:18:18,211 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 21:19:02,937 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:19:02,975 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 21:19:02,978 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:19:45,082 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 21:19:45,110 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 21:20:51,795 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:20:51,831 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 21:20:51,836 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:21:32,560 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 21:21:32,595 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 21:22:35,538 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:22:35,588 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 21:22:35,592 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:35:11,719 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-03 21:35:11,736 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-03 21:35:28,212 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-03 21:35:28,250 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-03 21:35:28,254 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 06:45:31,295 [7] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-04 14:15:46,279 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 14:15:46,341 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 14:15:57,232 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 14:15:57,263 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 14:15:57,263 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 14:36:25,936 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 14:36:25,952 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 14:36:37,371 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 14:36:37,409 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 14:36:37,413 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 20:03:06,819 [13] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-04 20:23:50,378 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 20:23:50,399 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 20:24:00,753 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 20:24:00,784 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 20:24:00,784 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:06:02,473 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 21:06:02,494 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 21:06:13,994 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:06:14,041 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 21:06:14,041 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:11:54,653 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 21:11:54,673 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 21:12:06,020 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:12:06,052 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 21:12:06,067 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:50:16,425 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-04 21:50:16,456 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-04 21:50:33,517 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-04 21:50:33,564 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-04 21:50:33,564 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 01:54:54,715 [4] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-05 09:57:45,030 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 09:57:45,092 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 09:57:55,197 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 09:57:55,228 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 09:57:55,228 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:06:12,460 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 13:06:12,476 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 13:06:22,616 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:06:22,648 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 13:06:22,648 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:11:31,346 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 13:11:31,377 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 13:11:45,620 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:11:45,651 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 13:11:45,667 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:15:43,514 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 13:15:43,542 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 13:16:05,722 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:16:05,794 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 13:16:05,801 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:36:06,887 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 13:36:06,918 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 13:36:20,515 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 13:36:20,562 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 13:36:20,562 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 18:17:05,320 [9] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-05 21:43:09,274 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-05 21:43:09,289 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-05 21:43:19,885 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-05 21:43:19,932 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-05 21:43:19,979 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-06 01:59:50,757 [4] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-06 09:21:25,273 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-06 09:21:25,304 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-06 13:11:39,821 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-06 13:11:39,852 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-06 13:11:39,868 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-06 17:42:15,596 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-06 17:42:18,084 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-07 07:29:03,381 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 07:29:03,443 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-07 07:29:03,459 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 07:45:17,525 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-07 07:45:17,551 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-07 07:45:33,923 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 07:45:33,970 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-07 07:45:33,970 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 09:22:27,612 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-07 09:22:27,625 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-07 11:24:58,354 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 11:24:58,385 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-07 11:24:58,401 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-07 14:52:02,104 [14] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-07 14:55:37,663 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-07 14:55:37,677 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-08 09:27:22,168 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 09:27:22,246 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 09:27:22,262 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 09:53:44,529 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-08 09:53:44,545 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-08 09:53:56,206 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 09:53:56,237 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 09:53:56,237 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 12:25:38,954 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-08 12:25:38,970 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-08 12:25:49,060 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 12:25:49,094 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 12:25:49,099 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 12:49:31,371 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-08 12:49:31,387 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-08 12:49:42,793 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 12:49:42,840 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 12:49:42,840 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 12:52:11,746 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-08 12:52:11,763 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-08 21:20:47,223 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 21:20:47,379 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 21:20:47,387 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 22:16:18,980 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-08 22:16:19,054 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-08 22:16:19,058 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 02:14:08,512 [12] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
+2015-07-09 09:07:48,333 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-09 09:07:48,412 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-09 13:28:31,665 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 13:28:31,760 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-09 13:28:31,766 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:04:57,753 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-09 15:04:57,769 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-09 15:05:09,105 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:05:09,136 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-09 15:05:09,152 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:05:57,378 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-09 15:05:57,425 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2015-07-09 15:06:07,492 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:06:07,523 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\TaidouPhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2015-07-09 15:06:07,523 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-07-09 15:20:23,672 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2015-07-09 15:20:23,687 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2017-12-14 13:04:57,367 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 13:04:57,428 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2017-12-14 13:04:57,451 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 13:06:40,698 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=CounterPublisher
+2017-12-14 13:06:40,705 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=CounterPublisher
+2017-12-14 13:06:48,358 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2017-12-14 13:06:48,375 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=E:\UnityProjects\TeamFightServer\PhotonServer\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2017-12-14 13:06:48,376 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001

@@ -1,0 +1,12 @@
+1940: 14:34:16.203 - ---
+1940: 14:34:16.203 - Service: "Photon Socket Server" starting
+1940: 14:34:16.204 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+1940: 14:34:16.206 - Will produce at most: 10 crash dumps
+1940: 14:34:16.206 - Service shutting down
+1940: 14:34:16.209 - Service shut down complete
+9716: 18:18:16.397 - ---
+9716: 18:18:16.397 - Service: "Photon Socket Server" starting
+9716: 18:18:16.397 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+9716: 18:18:16.399 - Will produce at most: 10 crash dumps
+9716: 18:18:16.399 - Service shutting down
+9716: 18:18:16.401 - Service shut down complete

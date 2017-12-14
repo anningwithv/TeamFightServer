@@ -1,0 +1,24 @@
+9408: 09:07:48.265 - ---
+9408: 09:07:48.265 - Service: "Photon Socket Server" starting
+9408: 09:07:48.265 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+9408: 09:07:48.268 - Will produce at most: 10 crash dumps
+9408: 09:07:48.268 - Service shutting down
+9408: 09:07:48.274 - Service shut down complete
+3688: 15:04:57.753 - ---
+3688: 15:04:57.753 - Service: "Photon Socket Server" starting
+3688: 15:04:57.753 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+3688: 15:04:57.754 - Will produce at most: 10 crash dumps
+3688: 15:04:57.754 - Service shutting down
+3688: 15:04:57.755 - Service shut down complete
+7392: 15:05:57.362 - ---
+7392: 15:05:57.362 - Service: "Photon Socket Server" starting
+7392: 15:05:57.362 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+7392: 15:05:57.362 - Will produce at most: 10 crash dumps
+7392: 15:05:57.362 - Service shutting down
+7392: 15:05:57.362 - Service shut down complete
+9316: 15:20:23.672 - ---
+9316: 15:20:23.672 - Service: "Photon Socket Server" starting
+9316: 15:20:23.672 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+9316: 15:20:23.672 - Will produce at most: 10 crash dumps
+9316: 15:20:23.672 - Service shutting down
+9316: 15:20:23.672 - Service shut down complete

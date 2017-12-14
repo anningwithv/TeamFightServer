@@ -1,0 +1,22 @@
+5772: 08:17:06.114 - Restarting application: "TaidouServer" due to file changes
+5772: 08:17:06.186 - Application: "TaidouServer" restart request (abort existing connections)
+5772: 08:17:06.303 - Taking reference on default app domain
+5772: 08:17:06.495 - Application: "TaidouServer" started in app domain: 10
+5772: 08:17:06.706 - RequestApplicationStop: 9
+5772: 08:17:06.722 - Application: "TaidouServer" stopped in app domain: 9 (abort existing connections)
+8080: 08:17:06.722 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+5772: 08:17:06.722 - Application: "TaidouServer" restart complete.
+6076: 08:17:06.736 - Unloading Domain: ApplicationName = 'TaidouServer', DomainId='9'
+8080: 08:17:06.737 - CManagedHost::OnDomainUnload() - 9
+5772: 08:35:49.717 - Restarting application: "TaidouServer" due to file changes
+5772: 08:35:49.717 - Application: "TaidouServer" restart request (abort existing connections)
+5772: 08:35:49.862 - Taking reference on default app domain
+5772: 08:35:50.006 - Application: "TaidouServer" started in app domain: 11
+5772: 08:35:50.215 - RequestApplicationStop: 10
+5772: 08:35:50.229 - Application: "TaidouServer" stopped in app domain: 10 (abort existing connections)
+8080: 08:35:50.229 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+5772: 08:35:50.229 - Application: "TaidouServer" restart complete.
+6076: 08:35:50.241 - Unloading Domain: ApplicationName = 'TaidouServer', DomainId='10'
+8080: 08:35:50.241 - CManagedHost::OnDomainUnload() - 10
+332: 11:04:37.897 - FAILED license server contact - trying next URL.
+332: 11:04:37.898 - Connect to Photon License Server failed. Trying again later. Allowed days without contact: 2

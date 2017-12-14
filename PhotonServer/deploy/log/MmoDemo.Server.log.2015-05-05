@@ -1,0 +1,3 @@
+2015-05-05 17:43:55,378 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MmoDemo; AppPath=E:\TaidouPhotonServer\deploy\MmoDemo, Type=Photon.MmoDemo.Server.PhotonApplication 
+2015-05-05 17:47:23,270 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MmoDemo
+2015-05-05 17:47:23,301 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MmoDemo

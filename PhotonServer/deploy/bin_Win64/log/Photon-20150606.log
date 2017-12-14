@@ -1,0 +1,12 @@
+11588: 18:11:40.784 - ---
+11588: 18:11:40.784 - Service: "Photon Socket Server" starting
+11588: 18:11:40.784 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+11588: 18:11:40.786 - Will produce at most: 10 crash dumps
+11588: 18:11:40.786 - Service shutting down
+11588: 18:11:40.789 - Service shut down complete
+14044: 18:17:45.360 - ---
+14044: 18:17:45.360 - Service: "Photon Socket Server" starting
+14044: 18:17:45.361 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+14044: 18:17:45.364 - Will produce at most: 10 crash dumps
+14044: 18:17:45.364 - Service shutting down
+14044: 18:17:45.366 - Service shut down complete

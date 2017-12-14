@@ -1,0 +1,61 @@
+7264: 00:43:35.645 - ---
+7264: 00:43:35.645 - Service: "Photon Socket Server" starting
+7264: 00:43:35.645 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+7264: 00:43:35.645 - Will produce at most: 10 crash dumps
+7264: 00:43:35.645 - MessageBox: Photon Socket Server - 3.4.5.2597
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+7264: 00:43:37.067 - Service shutting down: commandline option error. Errorcode: 255
+7264: 00:43:37.067 - Service shut down complete
+1128: 00:47:01.322 - ---
+1128: 00:47:01.322 - Service: "Photon Socket Server" starting
+1128: 00:47:01.322 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+1128: 00:47:01.322 - Will produce at most: 10 crash dumps
+1128: 00:47:01.322 - Service shutting down
+1128: 00:47:01.322 - Service shut down complete
+4540: 07:38:19.972 - ---
+4540: 07:38:19.972 - Service: "Photon Socket Server" starting
+4540: 07:38:19.972 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+4540: 07:38:19.973 - Will produce at most: 10 crash dumps
+4540: 07:38:19.973 - Service shutting down
+4540: 07:38:19.974 - Service shut down complete
+9528: 08:25:08.950 - ---
+9528: 08:25:08.950 - Service: "Photon Socket Server" starting
+9528: 08:25:08.950 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+9528: 08:25:08.950 - Will produce at most: 10 crash dumps
+9528: 08:25:08.950 - Service shutting down
+9528: 08:25:08.950 - Service shut down complete
+9088: 21:36:28.682 - ---
+9088: 21:36:28.682 - Service: "Photon Socket Server" starting
+9088: 21:36:28.682 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+9088: 21:36:28.682 - Will produce at most: 10 crash dumps
+9088: 21:36:28.682 - Service shutting down
+9088: 21:36:28.682 - Service shut down complete
+5104: 22:16:33.587 - ---
+5104: 22:16:33.587 - Service: "Photon Socket Server" starting
+5104: 22:16:33.587 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5104: 22:16:33.587 - Will produce at most: 10 crash dumps
+5104: 22:16:33.587 - Service shutting down
+5104: 22:16:33.587 - Service shut down complete
+7692: 22:18:58.383 - ---
+7692: 22:18:58.383 - Service: "Photon Socket Server" starting
+7692: 22:18:58.383 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+7692: 22:18:58.399 - Will produce at most: 10 crash dumps
+7692: 22:18:58.399 - Service shutting down
+7692: 22:18:58.399 - Service shut down complete

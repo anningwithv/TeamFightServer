@@ -1,0 +1,18 @@
+6464: 10:45:29.548 - ---
+6464: 10:45:29.548 - Service: "Photon Socket Server" starting
+6464: 10:45:29.548 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+6464: 10:45:29.548 - Will produce at most: 10 crash dumps
+6464: 10:45:29.548 - Service shutting down
+6464: 10:45:29.548 - Service shut down complete
+2252: 13:44:01.589 - ---
+2252: 13:44:01.589 - Service: "Photon Socket Server" starting
+2252: 13:44:01.589 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+2252: 13:44:01.589 - Will produce at most: 10 crash dumps
+2252: 13:44:01.589 - Service shutting down
+2252: 13:44:01.589 - Service shut down complete
+5648: 20:03:31.796 - ---
+5648: 20:03:31.796 - Service: "Photon Socket Server" starting
+5648: 20:03:31.796 - Config File: E:\TaidouPhotonServer\deploy\bin_Win64\PhotonServer.config
+5648: 20:03:31.797 - Will produce at most: 10 crash dumps
+5648: 20:03:31.797 - Service shutting down
+5648: 20:03:31.798 - Service shut down complete

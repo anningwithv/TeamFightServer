@@ -1,0 +1,24 @@
+2015-05-05 17:43:54,747 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=Lite.LiteApplication
+2015-05-05 17:43:54,811 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Lite; AppPath=E:\TaidouPhotonServer\deploy\Lite, Type=Lite.LiteApplication 
+2015-05-05 17:43:54,838 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-05 17:47:23,258 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=Lite
+2015-05-05 17:47:23,285 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=Lite
+2015-05-07 12:03:28,441 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=Lite.LiteApplication
+2015-05-07 12:03:28,503 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Lite; AppPath=E:\TaidouPhotonServer\deploy\Lite, Type=Lite.LiteApplication 
+2015-05-07 12:03:28,527 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:05:39,724 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=Lite
+2015-05-07 12:05:39,750 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=Lite
+2015-05-07 12:05:58,816 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=Lite.LiteApplication
+2015-05-07 12:05:58,874 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Lite; AppPath=E:\TaidouPhotonServer\deploy\Lite, Type=Lite.LiteApplication 
+2015-05-07 12:05:58,894 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:06:42,090 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=Lite
+2015-05-07 12:06:42,118 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=Lite
+2015-05-07 12:07:12,158 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=Lite.LiteApplication
+2015-05-07 12:07:12,216 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Lite; AppPath=E:\TaidouPhotonServer\deploy\Lite, Type=Lite.LiteApplication 
+2015-05-07 12:07:12,236 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 12:07:23,120 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=Lite
+2015-05-07 12:07:23,145 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=Lite
+2015-05-07 12:18:15,519 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=Lite.LiteApplication
+2015-05-07 12:18:15,580 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=Lite; AppPath=E:\TaidouPhotonServer\deploy\Lite, Type=Lite.LiteApplication 
+2015-05-07 12:18:15,604 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2015-05-07 21:23:06,175 [12] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss
