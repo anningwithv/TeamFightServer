@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Photon.SocketServer;
 using TeamFightCommon;
+using LitJson;
+using TeamFightCommon.Model;
 
 namespace TeamFightServer.Handlers
 {
@@ -22,7 +24,17 @@ namespace TeamFightServer.Handlers
             Dictionary<byte, object> parameters = request.Parameters;
             object jsonObject = null;
             parameters.TryGetValue((byte)ParameterCode.User, out jsonObject);
-            //User user = JsonMapper.ToObject<User>(jsonObject.ToString());
+            User user = JsonMapper.ToObject<User>(jsonObject.ToString());
+
+            if (user.Username == "zw" && user.Password == "123")
+            {
+                response.ReturnCode = (short)ReturnCode.Success;
+            }
+            else
+            {
+                response.ReturnCode = (short)ReturnCode.Fail;
+                response.DebugMessage = "用户名或密码错误!";
+            }
             //User userDB = manager.GetUserByUsername(user.Username);
             //if (userDB != null && userDB.Password == MD5Tool.GetMD5(user.Password))
             //{
@@ -31,11 +43,11 @@ namespace TeamFightServer.Handlers
             //    peer.LoginUser = userDB;
             //}
             //else
-            {
-                response.ReturnCode = (short)ReturnCode.Fail;
-                response.DebugMessage = "用户名或密码错误!";
+            //{
+            //    response.ReturnCode = (short)ReturnCode.Fail;
+            //    response.DebugMessage = "用户名或密码错误!";
 
-            }
+            //}
         }
 
         public override OperationCode OpCode
